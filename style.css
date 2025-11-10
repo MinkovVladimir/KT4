@@ -1,0 +1,186 @@
+body {
+    background-image: url("White.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    height: 120vh;
+}
+
+.hat {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    gap: 50px;
+    justify-content: center;
+    margin-top: 100px;
+}   
+
+.cardOne{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+.cardTwo{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+.cardThree{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+.cardFour{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+.cardFive{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+.cardSix{
+    width: 300px; 
+    max-width: 100%; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+    background-color: rgb(241, 193, 193);
+    border-radius: 6%;
+}
+
+
+.card-numberOne{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.card-numberTwo{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.card-numberThree{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.card-numberFour{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.card-numberFive{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.card-numberSix{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-top: 20px;
+}
+
+.OneLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TwoLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ThreeLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FourLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FiveLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SixLearn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-contentOne{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
+
+.card-contentTwo{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
+
+.card-contentThree{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
+
+.card-contentFour{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
+
+.card-contentFive{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
+
+.card-contentSix{
+    text-align: center;
+    margin: 10px 30px 30px 30px;
+}
